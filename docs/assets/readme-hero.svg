@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">LiveToFrame</title>
+  <desc id="desc">A bright coral, violet and mint banner with a playful landscape photo. Keep the frame. Free some space.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FFF3DE"/><stop offset=".55" stop-color="#FFE4DF"/><stop offset="1" stop-color="#ECE5FF"/></linearGradient>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#AAA0FF"/><stop offset="1" stop-color="#EEE6FF"/></linearGradient>
+    <linearGradient id="hill" x2="1" y2="1"><stop stop-color="#5CDFBA"/><stop offset="1" stop-color="#13A78C"/></linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="32" fill="url(#bg)"/>
+  <circle cx="1120" cy="26" r="130" fill="#D0C0FF" opacity=".55"/>
+  <circle cx="40" cy="420" r="110" fill="#FFC3A8" opacity=".65"/>
+  <path d="M720 360c80-90 179 80 260-10s131-36 178-74" fill="none" stroke="#C1ACEF" stroke-width="3" stroke-dasharray="7 10"/>
+  <rect x="66" y="57" width="199" height="32" rx="16" fill="#FFFDF7"/>
+  <circle cx="85" cy="73" r="5" fill="#FF735E"/>
+  <text x="101" y="78" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#58416F">A LITTLE PHOTO JOY</text>
+  <text x="62" y="174" font-family="Avenir Next,Arial,sans-serif" font-weight="800" font-size="76" letter-spacing="-4" fill="#352347">LiveTo<tspan fill="#ED6759">Frame</tspan></text>
+  <text x="67" y="227" font-family="Avenir Next,Arial,sans-serif" font-size="29" font-weight="600" fill="#58416F">Keep the frame. Free some space.</text>
+  <rect x="67" y="271" width="110" height="40" rx="20" fill="#8A5CF5"/>
+  <text x="122" y="297" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="white">PICK</text>
+  <text x="189" y="297" font-family="Arial,sans-serif" font-size="22" fill="#8A5CF5">→</text>
+  <rect x="221" y="271" width="110" height="40" rx="20" fill="#FF7B67"/>
+  <text x="276" y="297" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#352347">SAVE</text>
+  <text x="343" y="297" font-family="Arial,sans-serif" font-size="22" fill="#8A5CF5">→</text>
+  <rect x="375" y="271" width="110" height="40" rx="20" fill="#78E1C0"/>
+  <text x="430" y="297" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#234B42">VERIFY</text>
+  <text x="68" y="359" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" fill="#7C668D">iOS + ANDROID / MADE WITH CODEX</text>
+  <g transform="translate(846 200) rotate(12)">
+    <rect x="-92" y="-110" width="221" height="252" rx="20" fill="#8A5CF5"/>
+  </g>
+  <g transform="translate(857 210) rotate(-9)">
+    <rect x="-130" y="-143" width="254" height="286" rx="20" fill="#D0B6CA" opacity=".3" transform="translate(6 9)"/>
+    <rect x="-130" y="-143" width="254" height="286" rx="20" fill="#FFFEFA"/>
+    <rect x="-115" y="-128" width="224" height="207" rx="10" fill="url(#sky)"/>
+    <circle cx="39" cy="-77" r="26" fill="#FFD571"/>
+    <path d="M-115 39-61-23 0 29 47-7 109 40v39h-224Z" fill="#B5A3E8"/>
+    <path d="M-115 53Q-40-19 24 44T109 38v41h-224Z" fill="url(#hill)"/>
+    <circle cx="-92" cy="106" r="5" fill="#FF7B67"/>
+    <text x="-77" y="111" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#69557B">ONE GOOD FRAME.</text>
+  </g>
+  <g transform="translate(1046 291)">
+    <circle r="38" fill="#FF7B67"/>
+    <path d="m-14 0 10 10 21-22" fill="none" stroke="#FFFEFA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="m1050 96 7 18 19 7-19 7-7 18-7-18-19-7 19-7Z" fill="#8A5CF5"/>
+  <path d="m716 93 4 10 11 4-11 4-4 10-4-10-11-4 11-4Z" fill="#FF9B68"/>
+  <circle cx="1100" cy="216" r="7" fill="#27BA98"/>
+  <circle cx="691" cy="302" r="6" fill="#F6B64D"/>
+</svg>
