@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Local credentials and signing material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+*.jks
+*.keystore
+local.properties
+
+# Xcode generated files and personal settings
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.trace/
+*.xcarchive/
+*.ipa
+
+# Gradle generated files
+.gradle/
+.kotlin/
+*.apk
+*.aab
+
+# Editor personal settings
+.idea/
+.vscode/
